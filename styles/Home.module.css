@@ -1,0 +1,17 @@
+.status{
+    color: white;
+    width: 125px;
+    font-size: 20px;
+    padding: 5px 10px;
+    border-radius: 4px;
+    margin: 10px;
+}
+.list{
+  list-style-type: none;
+}
+.list_li{
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
